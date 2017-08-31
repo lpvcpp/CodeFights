@@ -1,0 +1,3 @@
+# CodeFights
+
+This repo contain source code for Coding pratice .... mostly of them based on codefights, a fews for GoogleCodeJam, etc...
